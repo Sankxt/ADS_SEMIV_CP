@@ -1,0 +1,145 @@
+{
+  "match_counter": 3,
+  "players": [
+    {
+      "name": "sanket",
+      "rating": 1199.2,
+      "mode": "Ranked",
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "in_queue": false,
+      "registered_at": 1777547320.2780802
+    },
+    {
+      "name": "athrav katkar",
+      "rating": 1875.8,
+      "mode": "Ranked",
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "in_queue": false,
+      "registered_at": 1777549667.0799112
+    },
+    {
+      "name": "kavish",
+      "rating": 1350.0,
+      "mode": "Ranked",
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "in_queue": false,
+      "registered_at": 1777549688.8726053
+    },
+    {
+      "name": "veer",
+      "rating": 3000.0,
+      "mode": "Ranked",
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "in_queue": false,
+      "registered_at": 1777549716.469787
+    },
+    {
+      "name": "nikhil",
+      "rating": 1200,
+      "mode": "Ranked",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "in_queue": false,
+      "registered_at": 1777549734.9760108
+    },
+    {
+      "name": "samarth",
+      "rating": 1328.56,
+      "mode": "Ranked",
+      "wins": 0,
+      "losses": 1,
+      "draws": 0,
+      "in_queue": false,
+      "registered_at": 1777552754.2984679
+    },
+    {
+      "name": "satya",
+      "rating": 1346.44,
+      "mode": "Ranked",
+      "wins": 1,
+      "losses": 0,
+      "draws": 0,
+      "in_queue": false,
+      "registered_at": 1777552761.9730756
+    }
+  ],
+  "matches": [
+    {
+      "match_id": 1,
+      "player1": "veer",
+      "player2": "kavish",
+      "mode": "Ranked",
+      "rating1_before": 3000,
+      "rating2_before": 1350,
+      "result": "player1",
+      "rating1_after": 3000.0,
+      "rating2_after": 1350.0,
+      "timestamp": 1777550125.893314
+    },
+    {
+      "match_id": 2,
+      "player1": "samarth",
+      "player2": "satya",
+      "mode": "Ranked",
+      "rating1_before": 1350,
+      "rating2_before": 1325,
+      "result": "player2",
+      "rating1_after": 1328.56,
+      "rating2_after": 1346.44,
+      "timestamp": 1777552766.4629092
+    },
+    {
+      "match_id": 3,
+      "player1": "athrav katkar",
+      "player2": "sanket",
+      "mode": "Ranked",
+      "rating1_before": 1875,
+      "rating2_before": 1200,
+      "result": "player1",
+      "rating1_after": 1875.8,
+      "rating2_after": 1199.2,
+      "timestamp": 1777554265.0271728
+    }
+  ],
+  "profiles": {
+    "kavish": {
+      "player_name": "kavish",
+      "avatar": "\ud83c\udfae",
+      "bio": "",
+      "favorite_mode": "Ranked",
+      "country": "",
+      "discord": "",
+      "created_at": 1777554177.070709,
+      "last_active": 1777554177.070711
+    }
+  },
+  "teams": {
+    "Alpha warriors ": {
+      "team_id": 1,
+      "name": "Alpha warriors ",
+      "captain": "athrav katkar",
+      "members": [
+        "athrav katkar",
+        "kavish",
+        "samarth",
+        "satya"
+      ],
+      "tag": "ALP",
+      "wins": 0,
+      "losses": 0,
+      "created_at": 1777554231.515674
+    }
+  },
+  "team_counter": 1,
+  "tournaments": [],
+  "tournament_counter": 0
+}
